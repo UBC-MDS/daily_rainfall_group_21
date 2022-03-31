@@ -8,7 +8,6 @@ The end goal is to deploy to the cloud the fully-functioning machine learning en
 
 ## Contributors
 
-Contributors:
 - Lianna Hovhannisyan: @liannah
 - Scarlett Qingqing Song: @scarlqq 
 - Linhan Cai: @lipcai
