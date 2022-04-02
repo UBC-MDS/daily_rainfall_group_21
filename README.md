@@ -15,4 +15,4 @@ The end goal is to deploy to the cloud the fully-functioning machine learning en
 
 ## License
 
-The project was created by Lianna Hovhannisyan, Simon Guo, Nobby Nguyen, Lynn Wu within the Master of Data Science program at the University of British Columbia (2021-2022). It is licensed under the terms of the MIT license.
+The project was created by Lianna Hovhannisyan, Linhan Cai, Siqi Tao, Scarlett Qingqing Song within the Master of Data Science program at the University of British Columbia (2021-2022). It is licensed under the terms of the MIT license.
